@@ -20,5 +20,9 @@ This tool takes all the highlighted texts along with the section/chapter header 
 
 #### Rollout Plans:
 -  The first version can be a POC, a simple Python application that takes a PDF as input and extracts the highlights from pdf, and builds the knowledge graph.
--  In the actual release, we can roll this out as a web application or Chrome extension. 
+-  In the actual release, we can roll this out as a web application or Chrome extension.
+
+#### Todo : 
+- do POC on text summarization / topic modelling on pdf highlights and see if that makes sense for creating concepts in the graph.
+- Search for some nice python libraries for building interactive graphs. (Neo4j ?, TBD)
 
