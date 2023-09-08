@@ -2,6 +2,8 @@
 
 mind-palace is a tool for highlighting and storing information as a knowledge graph as you read something online. It offers an interactive tool for quickly searching the knowledge graph and retrieving the information.   
 
+If built properly, this will be like a second brain for us. To easily store and retrieve information that we read online from various sources, all in a single place.  
+
 #### Initial Idea : 
 Use case 1 : 
 Let's say you are reading a PDF ebook and keep highlighting the interesting points using the PDF highlighter. 
@@ -11,6 +13,7 @@ Basically, it's not well organized.
 This tool takes all the highlighted texts along with the section/chapter header info and stores it as an interactive knowledge graph like this. 
 
 ![image](https://github.com/dingusagar/mind-palace/assets/12700858/b965eefe-bdbe-4ff3-82dd-14ea2474427e)
+
 
 #### Some feature ideas and how to implement them :
 1. The conversion from highlights to a useful knowledge graph should be completely automated. There shouldn't be any manual steps in between. This is the goal. 
@@ -26,3 +29,5 @@ This tool takes all the highlighted texts along with the section/chapter header 
 - do POC on text summarization / topic modelling on pdf highlights and see if that makes sense for creating concepts in the graph.
 - Search for some nice python libraries for building interactive graphs. (Neo4j ?, TBD)
 
+#### Tangent Thoughts : 
+- Maybe this can also work while we read blogs and articles. When we are in a webpage, we use this tool to highlight things and it automatically stores them in the knowledge graph in a interpretable format. 
