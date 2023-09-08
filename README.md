@@ -1,6 +1,6 @@
 # mind-palace
 
-mind-palace is a tool for highlighting and storing information as a knowledge graph as you read something online. After  
+mind-palace is a tool for highlighting and storing information as a knowledge graph as you read something online. It offers an interactive tool for quickly searching the knowledge graph and retrieving the information.   
 
 #### Initial Idea : 
 Use case 1 : 
